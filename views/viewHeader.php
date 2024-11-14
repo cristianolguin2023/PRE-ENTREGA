@@ -9,13 +9,13 @@
                 <a href="index.php" class="nav__links">Inicio</a>
             </li>
             <li class="nav__items">
-                <a href="#" class="nav__links">Acerca de</a>
+                <a href="nosotros.php" class="nav__links">Acerca de</a>
             </li>
             <li class="nav__items">
                 <a href="contacto.php" class="nav__links">Contacto</a>
             </li>
             <li class="nav__items">
-                <a href="#" class="nav__links">Blog</a>
+                <a href="blog.php" class="nav__links">Blog</a>
             </li>
 
             <img src="./images/close.svg" class="nav__close">
