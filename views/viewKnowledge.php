@@ -10,7 +10,7 @@
         </div>
 
         <figure class="knowledge__picture">
-            <img src="./images/knowledge.jpg" class="knowledge__img">
+            <img src="./images/knowledge.jpg" class="knowledge__img" alt="knowledge">
         </figure>
     </div>
 </section>

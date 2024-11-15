@@ -1,6 +1,6 @@
 <section class="testimony">
     <div class="testimony__container container">
-        <img src="./images/leftarrow.svg" class="testimony__arrow" id="before">
+        <img src="./images/leftarrow.svg" class="testimony__arrow" id="before"  alt="leftarrow">
 
         <section class="testimony__body testimony__body--show" data-id="1">
             <div class="testimony__texts">
@@ -9,7 +9,7 @@
             </div>
 
             <figure class="testimony__picture">
-                <img src="./images/face.jpg" class="testimony__img">
+                <img src="./images/face.jpg" class="testimony__img" alt="face">
             </figure>
         </section>
 
@@ -20,7 +20,7 @@
             </div>
 
             <figure class="testimony__picture">
-                <img src="./images/face2.jpg" class="testimony__img">
+                <img src="./images/face2.jpg" class="testimony__img" alt="face2">
             </figure>
         </section>
 
@@ -31,7 +31,7 @@
             </div>
 
             <figure class="testimony__picture">
-                <img src="./images/face3.jpg" class="testimony__img">
+                <img src="./images/face3.jpg" class="testimony__img" alt="face3">
             </figure>
         </section>
 
@@ -42,11 +42,11 @@
             </div>
 
             <figure class="testimony__picture">
-                <img src="./images/face4.jpg" class="testimony__img">
+                <img src="./images/face4.jpg" class="testimony__img" alt="face4">
             </figure>
         </section>
 
 
-        <img src="./images/rightarrow.svg" class="testimony__arrow" id="next">
+        <img src="./images/rightarrow.svg" class="testimony__arrow" id="next" alt="rightarrow">
     </div>
 </section>

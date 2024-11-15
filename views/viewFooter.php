@@ -30,9 +30,9 @@
 
     <section class="footer__copy container">
         <div class="footer__social">
-            <a href="#" class="footer__icons"><img src="./images/facebook.svg" class="footer__img"></a>
-            <a href="#" class="footer__icons"><img src="./images/twitter.svg" class="footer__img"></a>
-            <a href="#" class="footer__icons"><img src="./images/youtube.svg" class="footer__img"></a>
+            <a href="#" class="footer__icons"><img src="./images/facebook.svg" class="footer__img" alt="facebook"></a>
+            <a href="#" class="footer__icons"><img src="./images/twitter.svg" class="footer__img" alt="twitter"></a>
+            <a href="#" class="footer__icons"><img src="./images/youtube.svg" class="footer__img" alt="youtube"></a>
         </div>
 
         <h3 class="footer__copyright">Derechos reservados &copy; InnoTech</h3>

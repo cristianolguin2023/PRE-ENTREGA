@@ -18,11 +18,11 @@
                 <a href="blog.php" class="nav__links">Blog</a>
             </li>
 
-            <img src="./images/close.svg" class="nav__close">
+            <img src="./images/close.svg" class="nav__close" alt="close">
         </ul>
 
         <div class="nav__menu">
-            <img src="./images/menu.svg" class="nav__img">
+            <img src="./images/menu.svg" class="nav__img" alt="menu">
         </div>
     </nav>
 

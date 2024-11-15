@@ -7,7 +7,7 @@
             <div class="questions__answer">
                 <h3 class="questions__title">¿Como nos manejamos?
                     <span class="questions__arrow">
-                        <img src="./images/arrow.svg" class="questions__img">
+                        <img src="./images/arrow.svg" class="questions__img" alt="arrow">
                     </span>
                 </h3>
 
@@ -20,7 +20,7 @@
             <div class="questions__answer">
                 <h3 class="questions__title">¿Atención inmediata?
                     <span class="questions__arrow">
-                        <img src="./images/arrow.svg" class="questions__img">
+                        <img src="./images/arrow.svg" class="questions__img" alt="arrow">
                     </span>
                 </h3>
 
@@ -33,7 +33,7 @@
             <div class="questions__answer">
                 <h3 class="questions__title">¿La atención espersonalizada?
                     <span class="questions__arrow">
-                        <img src="./images/arrow.svg" class="questions__img">
+                        <img src="./images/arrow.svg" class="questions__img" alt="arrow">
                     </span>
                 </h3>
 
